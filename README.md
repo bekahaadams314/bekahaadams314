@@ -11,7 +11,7 @@
 
 ---
 
-### 🔬 About Me
+### 🔬 A little about me: 
 
 - 🎓 Mechanical Engineering Masters graduate of **Carnegie Mellon University**
 - ⚗️ I am specializing in numerical simulation, stochastic modeling, and uncertainty quantification (UQ). I generally love bringing mathematical modeling to complex problems in data. 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Programming tools that I use: 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,r,matlab,cpp,mysql" />
