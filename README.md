@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rebekah Adams 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=PhD+Candidate+%40+Carnegie+Mellon;Multiphysics+Simulation+%26+Uncertainty+Quantification;Exploring+Quantitative+Risk+%26+Decision+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=M.S.+%40+Carnegie+Mellon; Multiphysics+Simulation+%26+Uncertainty+Quantification; Exploring+Quantitative+Risk+%26+Decision+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
