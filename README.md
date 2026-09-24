@@ -18,7 +18,7 @@
 - 📊 Increasingly drawn to **quantitative risk & decision analytics** and aim to bring my skills to that world. 
 - 🌱 Currently building out Python fluency alongside VaR/CVaR, Monte Carlo simulation, and option-pricing methods. Check out my select projects [here](https://github.com/bekahaadams314/landing_page_rebekahannadams).
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rebekah-ann-adams/)
-- 🖌️ I also do art too! Check out my portfolio [Sol Notes "Studios"](https://solnotesstudios.cardd.co/)
+- 🖌️ I also do art too! Check out my portfolio (currently under construction): [Rebekah's Art Portfolio](https://bekahaadams314.github.io/index.html)
 
 ---
 
