@@ -11,18 +11,30 @@
 
 ---
 
-### 🔬 A little about me: 
+### A little about me: 
 
-- 🎓 Mechanical Engineering Masters graduate of **Carnegie Mellon University**
-- ⚗️ I am specializing in numerical simulation, stochastic modeling, and uncertainty quantification (UQ). I generally love bringing mathematical modeling to complex problems in data. 
-- 📊 Increasingly drawn to **quantitative risk & decision analytics** and aim to bring my skills to that world. 
-- 🌱 Currently building out Python fluency alongside VaR/CVaR, Monte Carlo simulation, and option-pricing methods. Check out my select projects [here](https://github.com/bekahaadams314/landing_page_rebekahannadams).
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rebekah-ann-adams/)
-- 🖌️ I also do art too! Check out my portfolio (currently under construction): [Rebekah's Art Portfolio](https://bekahaadams314.github.io/index.html)
+- 🏛️ **Now:** Associate, Treasury Management at the broker-dealer arm of NewEdge Capital Group
+- 📚 **Studying for:** FRM Part I (2027)
+- 🎓 Carnegie Mellon University (M.S., Mechanical Engineering) | Princeton University (B.S.E., Chemical & Biological Engineering)
+- 🎨 Painting and drawing, often with a celestial theme (art portfolio under construction).
+- 🥂 Hosting dinners and planning events.
+- 💃 Dancing (salsa, bachata, hip-hop), hiking, and rock climbing
+- 🎻 Playing music and reading non-fiction or science-fiction/fantasy books
+- 🎲 Board games, pinball nights, and museum outings
+- 🔭 Stargazing (I like to remind myself of the bigger picture).
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rebekah-ann-adams/)
 
 ---
 
-### 🛠️ Programming tools that I use: 
+### My Professional Interests:
+- **Liquidity Risk & Asset-Liability Management (ALM):** cash forecasting, deposit and sweep run-off, contingency funding
+- **Balance-Sheet Optimization & Stress Testing:** interest-rate shocks, funding stress and survival horizons
+- **Wealth Counterparty Credit:** concentration across partner banks and clearing firms, exposure limits
+- **Securities-Based Lending (SBL) & Lombard Collateral Risk:** loan-to-value, haircuts and margin-call triggers
+
+---
+
+### Programming tools that I use: 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,r,matlab,cpp,mysql" />
